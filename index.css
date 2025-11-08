@@ -13,11 +13,11 @@ footer {
 
 .fa-school, .fa-facebook, .fa-x-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
         font-size: 25px;
-        color: white;
+        color: gray;
         margin: 0 10px 0 10px;
     }
 
 .fa-school:hover, .fa-facebook:hover, .fa-x-twitter:hover, .fa-instagram:hover, .fa-tiktok:hover, .fa-youtube:hover {
-        color: #ff8099 ;
+        color: white ;
         transition: ease-in 0.25s;
     }
