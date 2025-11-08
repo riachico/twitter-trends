@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+footer {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+    }
+
+.fa-school, .fa-facebook, .fa-x-twitter, .fa-instagram, .fa-tiktok, .fa-youtube {
+        font-size: 25px;
+        color: white;
+        margin: 0 10px 0 10px;
+    }
+
+.fa-school:hover, .fa-facebook:hover, .fa-x-twitter:hover, .fa-instagram:hover, .fa-tiktok:hover, .fa-youtube:hover {
+        color: #ff8099 ;
+        transition: ease-in 0.25s;
+    }
